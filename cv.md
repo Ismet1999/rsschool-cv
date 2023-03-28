@@ -34,3 +34,19 @@ I am a middle frontend developer with 3 years of experience. I have experience i
     * Git
     * Nginx
 
+## __Experience__
+* [__Cambridge Learning Center__](https://cambridgeonline.uz/) (2022/Oct - now)
+    * Middle frontend developer (__Vue.js__, __TypeScript__, __Storybook__, __Jest__)
+    * Development of the frontend part of the site
+
+* [__Olcha__](https://Olcha.uz/) (2022/May - 2022/Oct)
+    * Middle frontend developer (__Nuxt.js__, __TypeScript__)
+    * Development of the frontend part of the site
+
+* [__Zamonaviy Kommunikatsiyalar__](https://zk.uz/) (2020/Nov - 2022/May)
+    * Junior frontend developer (__Vue.js__, __Leaflet.js__)
+    * Development of the frontend part of the site
+
+* [__Zetsoft LLC__](https://zetsoft.uz/) (2020/Mart - 2020/Nov)
+    * Junior frontend developer (__Vue.js__, __Leaflet.js__, __JsSip__)
+    * Development of the frontend part of the site
