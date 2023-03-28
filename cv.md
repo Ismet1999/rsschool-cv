@@ -1,0 +1,81 @@
+# __Ismet Kadyrov__
+
+### Middle frontend developer at [Cambridge Learning Center](https://cambridgeonline.uz/)
+
+***
+
+## __Contacts__
+* __Email__: [KadyrovIsmet1999@gmail.com](mailto:KadyrovIsmet1999@gmail.com)
+* __Telegram__: [@IsmeT_SKL](https://t.me/IsmeT_SKL)
+* __Github__: [Ismet1999](https://github.com/Ismet1999)
+* __LinkedIn__: [Исмет Кадыров](https://www.linkedin.com/in/%D0%B8%D1%81%D0%BC%D0%B5%D1%82-%D0%BA%D0%B0%D0%B4%D1%8B%D1%80%D0%BE%D0%B2-3ab8541b8/)
+
+## About me
+I am a middle frontend developer with 3 years of experience. I have experience in developing web applications using Vue.js, Nuxt.js, TypeScript, and Node.js. I am interested in learning new technologies and improving my skills. 
+
+## __Skills__
+* __Frontend development (Middle)__
+    * HTML5 / Pug
+    * CSS3 (SASS)
+    * JavaScript (ES6+) / TypeScript
+    * Vue.js / Nuxt.js
+    * Jest
+    * JsSip (WebRTC)
+    * Leaflet.js (Map)
+    * Storybook
+* __Backend development (Junior)__
+    * Node.js
+    * Nestjs / Express.js
+    * MongoDB / PostgreSQL
+    * Mongoose / TypeORM
+    * Swagger 
+* __DevOps (Beginner)__
+    * Docker
+    * Git
+    * Nginx
+
+## __Experience__
+* [__Cambridge Learning Center__](https://cambridgeonline.uz/) (2022/Oct - now)
+    * Middle frontend developer (__Vue.js__, __TypeScript__, __Storybook__, __Jest__)
+    * Development of the frontend part of the site
+
+* [__Olcha__](https://Olcha.uz/) (2022/May - 2022/Oct)
+    * Middle frontend developer (__Nuxt.js__, __TypeScript__)
+    * Development of the frontend part of the site
+
+* [__Zamonaviy Kommunikatsiyalar__](https://zk.uz/) (2020/Nov - 2022/May)
+    * Junior frontend developer (__Vue.js__, __Leaflet.js__)
+    * Development of the frontend part of the site
+
+* [__Zetsoft LLC__](https://zetsoft.uz/) (2020/Mart - 2020/Nov)
+    * Junior frontend developer (__Vue.js__, __Leaflet.js__, __JsSip__)
+    * Development of the frontend part of the site
+
+
+## __Code Example__
+Codewars task: [ROT13](https://www.codewars.com/kata/530e15517bc88ac656000716/javascript)
+```
+function rot13(str) {
+  let dict = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz'
+  return [...str].map(b => {
+    let ind = dict.indexOf(b) 
+    if(ind !== -1) return dict[(ind +26) % 52]
+    return b
+  }).join("")
+}
+
+rot13("EBG13 rknzcyr.") === "ROT13 example." 
+```
+
+
+## Courses
+* JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+* and other courses on [Youtube](https://www.youtube.com/)
+
+## Languages
+* Uzbek (__Basic__)
+* Russian (__Native__)
+* English (__Pre-Intermediate__)
+
+
