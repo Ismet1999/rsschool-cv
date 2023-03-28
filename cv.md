@@ -50,3 +50,32 @@ I am a middle frontend developer with 3 years of experience. I have experience i
 * [__Zetsoft LLC__](https://zetsoft.uz/) (2020/Mart - 2020/Nov)
     * Junior frontend developer (__Vue.js__, __Leaflet.js__, __JsSip__)
     * Development of the frontend part of the site
+
+
+## __Code Example__
+Codewars task: [ROT13](https://www.codewars.com/kata/530e15517bc88ac656000716/javascript)
+```
+function rot13(str) {
+  let dict = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz'
+  return [...str].map(b => {
+    let ind = dict.indexOf(b) 
+    if(ind !== -1) return dict[(ind +26) % 52]
+    return b
+  }).join("")
+}
+
+rot13("EBG13 rknzcyr.") === "ROT13 example." 
+```
+
+
+## Courses
+* JavaScript Manual on [learn.javascript.ru](https://learn.javascript.ru/)
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+* and other courses on [Youtube](https://www.youtube.com/)
+
+## Languages
+* Uzbek (__Basic__)
+* Russian (__Native__)
+* English (__Pre-Intermediate__)
+
+
